@@ -1,0 +1,3 @@
+com\qq\tars\quickstart\server\QuickStartApplication.class
+com\qq\tars\quickstart\server\testapp\impl\HelloServantImpl.class
+com\qq\tars\quickstart\server\testapp\HelloServant.class
