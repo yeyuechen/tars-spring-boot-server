@@ -6,13 +6,16 @@
    ````
 ### 基于tars框架开发springboot项目
 
+### 一、 服务端代码编写
+
+注意初学者可以直接下载我的代码，直接跳到第二大步骤，进行部署；
+如果想要了解整个springboot的代码编写过程可以走下面流程
+
 ##springboot生成方法基于springboot官网自动生成一个最基础的项目，然后进行调整
  http地址：https://start.spring.io/
 ![Image text](https://github.com/yeyuechen/image/blob/main/20210623102852.png)
 
-### 一、 服务端代码编写
 
-注意初学者可以直接下载我的代码，直接跳到第二大步骤，进行部署
 
 ##2、在pom.xml文件中添加一下配置:
 ````
